@@ -1,0 +1,6 @@
+{
+    "name": "albertborsos/smarty-renderer",
+    "require":{
+        "smarty/smarty":"3.1.17"
+    }
+}
